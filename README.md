@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manuel Seelig aka @SwaglordHabib
+- 👋 Hi, I’m @SwaglordHabib
 - 👀 I’m interested in C# and Typescript and React
 - 🌱 I’m currently learning game dev on monogame
 - ✒ I’ve written DoubleFiles. A small programm to show you all same files with the same name. Later it should use a fuzzy search to get also simmilar file names.
