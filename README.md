@@ -2,7 +2,8 @@
 - 👀 I’m interested in C# and Typescript and React
 - 🌱 I’m currently learning game dev stuff
 - ✒ I’ve written DoubleFiles. A small programm to show you all same files with the same name. Later it should use a fuzzy search to get also simmilar file names.
-- 🍻 I’ve written Sippy. A multiplayer online drinking game where you and your friends can have a fun time. For now this project is pause.
+- 🍻 I’ve written Drunkenpolls. A multiplayer online drinking game where you and your friends can have a fun time. For now this project is pause.
+- 🍻 I’ve written Sippy. A tracker for groups and friends how many sips a person has to drink. For now this project is pause.
 
 
 <!---
